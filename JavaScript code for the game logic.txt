@@ -1,0 +1,7 @@
+// JavaScript code for the game logic and interaction will go here
+document.getElementById("startGameBtn").addEventListener("click", startGame);
+
+function startGame() {
+    // Code to start the game
+    alert("Game started!");
+}
